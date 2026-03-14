@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Soham Biswas<br><br>💻 Passionate about coding, problem-solving, and building useful projects.  <br>🚀 Currently learning and improving my skills in software development.  <br>🛠️ Interested in open-source, web development, and new technologies.  <br>📚 Always exploring better ways to write clean and efficient code.<br><br>🌱 Currently Learning: Java springboot React.js next.js  <br>🤝 Open to collaboration on interesting projects  <br>📫 Reach me at: sohambiswas1810@gmail.com  https://www.linkedin.com/in/soham1810/
+👋 Hi, I'm Soham Biswas<br><br>💻 Passionate about coding, problem-solving, and building useful projects.  <br>🚀 Currently learning and improving my skills in software development.  <br>🛠️ Interested in open-source, web development, and new technologies.  <br>📚 Always exploring better ways to write clean and efficient code.<br><br>🌱 Currently Learning: Java springboot React.js next.js  <br>🤝 Open to collaboration on interesting projects  <br>📫
 
 
 ## 🌐 Socials:
